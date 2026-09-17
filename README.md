@@ -5,7 +5,7 @@ An end-to-end Machine Learning project demonstrating data preprocessing, advance
 ##  Project Objective
 The goal of this project is to accurately predict house prices (`SalePrice`) based on various property attributes. The primary focus is on handling high-dimensional categorical data, engineering high-signal features, and tuning a baseline Decision Tree Regressor to prevent pure memorization (overfitting) and improve generalization on unseen data.
 
-## 🛠️ Workflow & Methodology
+##  Workflow & Methodology
 
 1. **Exploratory Data Analysis (EDA):**
    * Identified strong positive correlations (`Overall Qual`, `Gr Liv Area`, `Total Bsmt SF`) and negative correlations (`Overall Cond`, `Enclosed Porch`).
